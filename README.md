@@ -1,5 +1,5 @@
 # Chobo
-![Chobo](images/chobo_logo_black_256px.png)
+![Chobo](https://raw.githubusercontent.com/eriksk/chobo_docs/master/Images/chobo_logo_black_256px.png)
 A 2D Mini Game Framework
 
 ## Features
